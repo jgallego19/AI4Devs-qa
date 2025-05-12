@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Senior Full-Stack Engineer",
+    "contactInfo": "hr@lti.com",
+    "applicationDeadline": "2024-12-31",
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "title": "Data Scientist",
+    "contactInfo": "hr@lti.com",
+    "applicationDeadline": "2024-12-31",
+    "status": "Open"
+  }
+] 

@@ -1,0 +1,29 @@
+{
+  "interviewFlow": {
+    "positionName": "Senior Full-Stack Engineer",
+    "interviewFlow": {
+      "interviewSteps": [
+        {
+          "id": 1,
+          "name": "CV Review",
+          "order": 1
+        },
+        {
+          "id": 2,
+          "name": "Phone Screening",
+          "order": 2
+        },
+        {
+          "id": 3,
+          "name": "Technical Test",
+          "order": 3
+        },
+        {
+          "id": 4,
+          "name": "Final Interview",
+          "order": 4
+        }
+      ]
+    }
+  }
+} 
